@@ -11,7 +11,7 @@
     <!--script src="/static/js/built.js" type="text/javascript"></script-->
 
     <script src="lib/impact/impact.js" type="text/javascript"></script>
-    <script src="assets/js/main.js" type="text/javascript"></script>
+    <script src="lib/game/main.js" type="text/javascript"></script>
 
   </body>
 </html>
