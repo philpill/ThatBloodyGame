@@ -2,7 +2,7 @@
 
 # Path to impact.js and your game's main .js
 IMPACT_LIBRARY=lib/impact/impact.js
-GAME=assets/js/main.js
+GAME=lib/game/main.js
 
 # Output file
 OUTPUT_FILE=static/js/built.js
